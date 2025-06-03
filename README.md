@@ -1,7 +1,7 @@
 # CraftyVision
 
 🎨 **Minecraft Skin Renderer with Realtime Preview**  
-Made with [🚀 Crafatar API](https://crafatar.com/)
+# Made with [🚀 Crafatar API](https://crafatar.com/)
 
 ---
 
