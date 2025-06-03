@@ -40,11 +40,9 @@ HttpResponseMessage response = await client.GetAsync(mojangUrl); // get UUID
 - **size** : **0 - 512 literally it set to png size**
 - **overlay** : this for layers, i mean, **If the character has an extra layer(helm) it will show it**
 
----
-
 ```csharp
 imageUrl = $"https://crafatar.com/avatars/{uuid}?size=512&overlay"; // 2D Head
-imageUrl = $"https://crafatar.com/skins/{uuid}?size=512&overlay"; // 2D Texture Skim
+imageUrl = $"https://crafatar.com/skins/{uuid}?size=512&overlay"; // 2D Texture Skin
 imageUrl = $"https://crafatar.com/renders/head/{uuid}?size=512&overlay"; // 3D Head
 imageUrl = $"https://crafatar.com/renders/body/{uuid}?size=512&overlay"; // 3D Full Body Render
 ```
