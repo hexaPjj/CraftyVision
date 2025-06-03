@@ -26,8 +26,7 @@ HttpResponseMessage response = await client.GetAsync(mojangUrl); // get UUID
 
 # 📌 How to use [Crafatar API](https://crafatar.com/)
 
-*crafatar api* has document on their page you can look that but in short https://crafatar.com **/avatars/{uuid}** ?size=512&overlay
-**/avatars/{uuid}** is for head
+*crafatar api* has document on their page you can look that but in short
 
 - mojang stores characters and their names in uuid
 - and APIs like craftar API create characters using this uuid
