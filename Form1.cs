@@ -19,7 +19,7 @@ namespace CraftyVision
         {
             if (ProgressBar.Value < 100)
             {
-                ProgressBar.Value += rand.Next(1, 4); // 1 ile 3 arasýnda artýþ
+                ProgressBar.Value += rand.Next(1, 4);
                 if (ProgressBar.Value > 100)
                     ProgressBar.Value = 100;
             }
