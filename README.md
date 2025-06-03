@@ -23,6 +23,7 @@
 - ✅ Different skin renders via Craftar
 - ✅ Save as PNG to desktop
 - ✅ 2D / 3D options
+- ✅ Fake Loading Screen
 
 ---
 
